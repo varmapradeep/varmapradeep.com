@@ -14823,7 +14823,9 @@ header.header-full-width.header--sticky.sticky {
 
 @media only screen and (max-width: 575px) {
   .banner-two-main-wrapper .banner-right-content .main-img .banner-big-text-1 {
-    display: none;
+    font-size: 100px;
+    line-height: 110px;
+    top: 210px;
   }
 }
 
@@ -20715,7 +20717,10 @@ section.clients-testimonial-area {
 
 @media only screen and (max-width: 575px) {
   .banner-two-main-wrapper .banner-right-content .main-img .banner-big-text-1 {
-    display: none;
+    font-size: 80px;
+    line-height: 110px;
+    top: 185px;
+
   }
 }
 
